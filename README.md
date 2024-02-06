@@ -10,9 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsteelrat" alt="mrsteelrat" /></a> </p>
 
+- 🌱 I’m currently learning **Boost, Qt,tgbot-cpp**
+
+- 👨‍💻 All of my projects are available at [https://mrsteelrat.site/portfolio/](https://mrsteelrat.site/portfolio/)
+
 - 📝 I regularly write articles on [https://mrsteelrat.site/](https://mrsteelrat.site/)
 
-- 📫 How to reach me **drebin34+github@gmail.com**
+- 💬 Ask me about **Passionate software developer specializing in bot development for social networks, mobile applications, and desktop platforms with over three years of hands-on.**
+
+- 📫 How to reach me **drebin341+github@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
