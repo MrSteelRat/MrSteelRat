@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsteelrat" alt="mrsteelrat" /></a> </p>
 
-- 🌱 I’m currently learning **Boost, Qt,tgbot-cpp**
+- 🌱 I’m currently learning **Boost, Qt, tgbot-cpp, Userver**
 
 - 👨‍💻 All of my projects are available at [https://mrsteelrat.site/portfolio/](https://mrsteelrat.site/portfolio/)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
+<a href="https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
