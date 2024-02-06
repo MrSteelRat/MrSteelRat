@@ -5,28 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsteelrat" alt="mrsteelrat" /></a> </p>
 
-- 🌱 I’m currently learning **Boost, Qt,tgbot-cpp**
+- 🌱 I’m currently learning **Boost, Qt,tgbot-cpp, Userver**
 
 - 👨‍💻 All of my projects are available at [https://mrsteelrat.site/portfolio/](https://mrsteelrat.site/portfolio/)
 
-- 📝 I regularly write articles on [https://mrsteelrat.site/](https://mrsteelrat.site/)
+- 📝 I regularly write articles on [https://t.me/MrSteelRat](https://t.me/MrSteelRat)
 
 - 💬 Ask me about **Passionate software developer specializing in bot development for social networks, mobile applications, and desktop platforms with over three years of hands-on.**
 
 - 📫 How to reach me **drebin341+github@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences [https://mrsteelrat.site/](https://mrsteelrat.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-botev-355321168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-botev-355321168/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9758231/mr-steel-rat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9758231/mr-steel-rat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mrsteelrat-bm2uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mrsteelrat-bm2uv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mrrobot0ne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrrobot0ne/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
-<a href="/https://mrsteelrat.site/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mrsteelrat.site/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
