@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-# Mr-Steel-Rat
-![MrSteelRat](https://github-readme-stats.vercel.app/api?username=MrSteelRat&theme=dark&show_icons=true)
-
 <h1 align="center">Hi 👋, I'm Alexander Botev</h1>
 <h3 align="center">Passionate software developer specializing in bot development for social networks, mobile applications, and desktop platforms with over three years of hands-on.</h3>
 
