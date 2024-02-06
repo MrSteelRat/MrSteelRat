@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Alexander Botev</h1>
 <h3 align="center">Passionate software developer specializing in bot development for social networks, mobile applications, and desktop platforms with over three years of hands-on.</h3>
 
@@ -25,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-botev-355321168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-botev-355321168/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9758231/mr-steel-rat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9758231/mr-steel-rat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mrsteelrat-bm2uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mrsteelrat-bm2uv" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@mrsteelrat-bm2uv?si=bsqqytykylawmc2c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mrsteelrat-bm2uv?si=bsqqytykylawmc2c" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mrrobot0ne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrrobot0ne/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
 <a href="/https://mrsteelrat.site/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mrsteelrat.site/" height="30" width="40" /></a>
@@ -39,20 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsteelrat&show_icons=true&locale=en" alt="mrsteelrat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsteelrat&" alt="mrsteelrat" /></p>
-
-<!--
-**MrSteelRat/MrSteelRat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Mr-Steel-Rat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
