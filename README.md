@@ -4,14 +4,23 @@
 ![MrSteelRat](https://github-readme-stats.vercel.app/api?username=MrSteelRat&theme=dark&show_icons=true)
 
 <h1 align="center">Hi 👋, I'm Alexander Botev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate software developer specializing in bot development for social networks, mobile applications, and desktop platforms with over three years of hands-on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsteelrat&label=Profile%20views&color=0e75b6&style=flat" alt="mrsteelrat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsteelrat" alt="mrsteelrat" /></a> </p>
 
+- 📝 I regularly write articles on [https://mrsteelrat.site/](https://mrsteelrat.site/)
+
+- 📫 How to reach me **drebin34+github@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-botev-355321168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-botev-355321168/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9758231/mr-steel-rat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9758231/mr-steel-rat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mrsteelrat-bm2uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mrsteelrat-bm2uv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mrrobot0ne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrrobot0ne/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
 <a href="/https://mrsteelrat.site/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mrsteelrat.site/" height="30" width="40" /></a>
 </p>
 
