@@ -35,3 +35,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsteelrat&show_icons=true&locale=en" alt="mrsteelrat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsteelrat&" alt="mrsteelrat" /></p>
+
+<h3 align="left">Crypto Addresses:</h3>
+
+- Bitcoin: `bc1qsaru77qyw8n4utzkzv434xp6fn9czmfshrwz64`
+
+- ETH: `0x73A229885D02Cf80C41abF3533c675d02768c9eC`
+
+- Monero: `47W3qi6kS9qZAma6NpoQ2NixFxBanUvQq6rd5axg8AvQT54hrBWUcTzRW1VTp8iBu2XEbg5M4RFLzeNnVQfuVcwGJJKXHWG`
+
+- USDT(ETH): `0x73A229885D02Cf80C41abF3533c675d02768c9eC`
+
+- Litecoin: `LZRronSxAaA8X8GZBiVBWyK3eBBZoSJZhr`
