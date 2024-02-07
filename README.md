@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-botev-355321168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-botev-355321168/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexander-botev-355321168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-botev-355321168/" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/13526577/mr-steel-rat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/13526577/mr-steel-rat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mrsteelrat-bm2uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mrsteelrat-bm2uv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mrsteelrat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrsteelrat/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mrsteelrat-bm2uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mrsteelrat-bm2uv" height="30" width="40" /></a>
+<a href="https://leetcode.com/mrsteelrat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrsteelrat/" height="30" width="40" /></a>
+<a href="https://discord.gg/nvMPP7Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvMPP7Av" height="30" width="40" /></a>
 <a href="https://vk.com/mrsteelrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="https://vk.com/mrsteelrat" height="30" width="40" /></a>
 </p>
 
