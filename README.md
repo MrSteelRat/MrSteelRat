@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsteelrat&" alt="mrsteelrat" /></p>
 
-<h3 align="left">Crypto Addresses:</h3>
+<h3 align="left">Support me:</h3>
 
 - Bitcoin: `bc1qsaru77qyw8n4utzkzv434xp6fn9czmfshrwz64`
 
