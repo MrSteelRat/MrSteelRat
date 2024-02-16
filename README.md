@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://mrsteelrat.site/](https://mrsteelrat.site/)
 
-- Only project {https://mrsteelrat.github.io/)
+- Only project [https://mrsteelrat.github.io/](https://mrsteelrat.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
